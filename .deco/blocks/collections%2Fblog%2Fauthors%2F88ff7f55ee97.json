@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/88ff7f55ee97",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Augusto",
+    "email": "augusto@gmail.com"
+  }
+}

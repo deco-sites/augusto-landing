@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/e823690cdb57",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Mamíferos",
+    "slug": "mamiferos"
+  }
+}

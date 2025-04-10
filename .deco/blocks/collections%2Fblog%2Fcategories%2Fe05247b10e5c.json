@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/e05247b10e5c",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Anfíbios",
+    "slug": "anfibios"
+  }
+}

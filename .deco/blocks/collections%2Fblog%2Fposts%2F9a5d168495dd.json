@@ -1,0 +1,29 @@
+{
+  "name": "collections/blog/posts/9a5d168495dd",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Augusto",
+        "email": "augusto@gmail.com"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Anfíbios",
+        "slug": "anfibios"
+      }
+    ],
+    "extraProps": [
+      {
+        "key": "Color",
+        "value": "Blue"
+      }
+    ],
+    "title": "My new post",
+    "excerpt": "testing",
+    "date": "2025-04-10",
+    "slug": "my-new-post",
+    "content": "<p>Alohaaa</p>"
+  }
+}

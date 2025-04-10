@@ -1,0 +1,20 @@
+{
+  "name": "Blog",
+  "path": "/blog",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "blog/sections/Seo/SeoBlogPostListing.tsx",
+        "jsonLD": {
+          "__resolveType": "blog/loaders/BlogpostListing.ts",
+          "sortBy": "date_desc"
+        }
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
